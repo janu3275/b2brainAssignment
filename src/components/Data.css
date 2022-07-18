@@ -1,0 +1,139 @@
+.data{
+    /* background-color: aqua; */
+    height: 75rem;
+    width: 60rem;
+    padding-top: 5%;
+    padding-left: 5%;
+    display: flex;
+}
+
+.infobox{
+    /* background-color: aqua; */
+    height: 100%;
+    width: 100%;
+}
+.quickactions{
+   width: 20%;
+   /* background-color: aquamarine;  */
+}
+.qa{
+    padding: 1rem 0;
+    text-align: start;
+}
+.qat{
+    padding: 1rem 0;
+    text-align: start;
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.412);
+
+}
+.titles{
+    padding: 1rem 1rem 0rem 1rem;
+    text-align: start;
+    color: rgba(0, 0, 0, 0.412);
+    font-size: 150%;
+
+}
+.datas{
+    height:58rem ;
+    /* background-color: blue; */
+    /* display: flex; */
+    /* display: inline; */
+    align-items: flex-start;
+    text-align: start;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* height: 15%; */
+    align-items: center;
+    width: 50%;
+}
+.bigbox{
+    display: inline-block;
+    width: 40%;
+    padding: 2.2% 7% 2.5% 2.3%;
+    /* height: 5%; */
+    /* text-align: center; */
+    
+    /* text-align: start; */
+    /* justify-content: left; */
+
+}
+.bigboxes{
+    display: inline-block;
+    width: 40%;
+    padding: 2.2% 7% 2.5% 2.3%;
+    
+    /* height: 5%; */
+}
+.cimg{
+    height: 3.2rem;
+    width: 3.2rem;
+    border-radius: 5%;
+    margin-right: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* align-items: center; */
+    /* justify-content: center; */
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+
+    
+    /* vertical-align: middle; */
+    /* background-color: blue; */
+}
+.cimages{
+    height: 3.2rem;
+    width: 3.2rem;
+    border-radius: 5%;
+    margin-right: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* align-items: center; */
+    /* justify-content: center; */
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.cinfo{
+    height: 100%;
+    width: 12rem;
+    text-align: start;
+    /* padding-top: 0.2rem; */
+    /* padding-top: 0.5rem; */
+    
+    
+}
+.imginfo{
+    display: flex;
+}
+.trackbtn{
+    height: 2rem;
+}
+.chota{
+    font-size: small;
+}
+.databtn{
+    border: solid 0.5px !important;
+    padding: 0.2rem 0rem 0.2rem 0rem !important;
+    border-color: red !important;
+    color: red !important;
+    font-size: 0.8rem !important;
+    text-transform: unset !important;
+
+    
+}
+.databtns{
+    border: solid 0.5px !important;
+    padding: 0.1rem 0.5rem !important;
+    border-color: green !important;
+    color: green !important;
+    font-size: 0.8rem !important; 
+    text-transform: unset !important;
+
+}
